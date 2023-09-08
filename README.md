@@ -29,4 +29,4 @@
 - CECL Computation and valuatation
 
 
-#### data and references: https://www.tizianobellini.com/
+#### data and resource: https://www.tizianobellini.com/
