@@ -26,7 +26,11 @@
 
 - Data preparation
 - Scenario Analysis
-- CECL Computation and valuatation
+- ECL Computation and valuatation
 
 
-#### data and resource: https://www.tizianobellini.com/
+#### References
+- https://www.tizianobellini.com/
+- https://www2.deloitte.com/content/dam/Deloitte/us/Documents/audit/us-audit-cecl-credit-risk-modeling.pdf
+- https://ncua.gov/regulation-supervision/regulatory-compliance-resources/cecl-resources/simplified-cecl-tool
+- https://www.moodysanalytics.com/articles/2018/cecl%20modeling%20faqs
